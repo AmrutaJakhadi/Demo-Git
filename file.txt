@@ -3,3 +3,4 @@ hello
 input through UI
 chk git fetch
 chk git pull
+chk in bb
